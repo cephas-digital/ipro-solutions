@@ -128,28 +128,28 @@ export const ProductServices = () => {
   let type = [
     {
       name: "data Services",
-      description: `TEETOP DIGITAL is a reliable and affordable platform for purchasing affordable data bundles and airtime top-ups for any Nigerian network. We offer competitive pricing for data plans from Airtel, MTN, 9mobile, and Glo.`,
+      description: `IPRO SOLUTIONS is a reliable and affordable platform for purchasing affordable data bundles and airtime top-ups for any Nigerian network. We offer competitive pricing for data plans from Airtel, MTN, 9mobile, and Glo.`,
     },
     {
       name: "Airtime Services",
-      description: `TEETOP DIGITAL offers convenient and rapid airtime top-up services at competitive rates. Our low charges and quick recharge services make it easy for customers to top up their airtime.
+      description: `IPRO SOLUTIONS offers convenient and rapid airtime top-up services at competitive rates. Our low charges and quick recharge services make it easy for customers to top up their airtime.
       `,
     },
     {
       name: "Cable Subscription",
-      description: `At TEETOP DIGITAL, we offer discounted rates for renewing your DSTV, GOTV, and Startimes subscriptions, allowing you to save money on your cable service. Our convenient access to subscription renewal saves you time and effort in obtaining your cable service.`,
+      description: `At IPRO SOLUTIONS, we offer discounted rates for renewing your DSTV, GOTV, and Startimes subscriptions, allowing you to save money on your cable service. Our convenient access to subscription renewal saves you time and effort in obtaining your cable service.`,
     },
     {
       name: "WAEC/NECO scratch cards",
-      description: `TEETOP DIGITAL is your go-to source for various examination scratch cards, including those for Waec, Neco, and Nabteb. We take pride in providing top-quality service and aim to make our website your go-to destination after your first experience with us. Our priority is your satisfaction.`,
+      description: `IPRO SOLUTIONS is your go-to source for various examination scratch cards, including those for Waec, Neco, and Nabteb. We take pride in providing top-quality service and aim to make our website your go-to destination after your first experience with us. Our priority is your satisfaction.`,
     },
     {
       name: " Swiftest Delivery   ",
-      description: `At TEETOP DIGITAL, we are committed to providing prompt delivery of all services purchased through our platform. We promise to deliver value for every transaction in a timely manner, ensuring that you receive the services you need in a timely and efficient manner.`,
+      description: `At IPRO SOLUTIONS, we are committed to providing prompt delivery of all services purchased through our platform. We promise to deliver value for every transaction in a timely manner, ensuring that you receive the services you need in a timely and efficient manner.`,
     },
     {
       name: "good customer care service",
-      description: `TEETOP DIGITAL  has a team of well-trained customer support agents available 24/7 to assist you with any issues you may have. We offer multiple channels of communication to ensure that you can easily reach us and receive prompt assistance.`,
+      description: `IPRO SOLUTIONS  has a team of well-trained customer support agents available 24/7 to assist you with any issues you may have. We offer multiple channels of communication to ensure that you can easily reach us and receive prompt assistance.`,
     },
   ];
   return (
@@ -282,7 +282,7 @@ export const GainHeader = () => {
         <MiddleHeader text={"What you stand to gain with us"} />
         <div className="d-flex justify-content-center">
           <p className="text-center w-50 w50 fontReduce">
-            With TEETOP DIGITALs, You will enjoy a fast data delivery with
+            With Ipro Solutionss, You will enjoy a fast data delivery with
             Optimal security and also enjoy the best offers and discount sales
             on all our products periodically
           </p>
@@ -342,9 +342,9 @@ const CustomerHeader = () => {
         <MiddleHeader text={"Hear our customers speak"} />
         <div className="d-flex justify-content-center">
           <p className="text-center w-50 w50 fontReduce">
-            Ever since i started business with TEETOP DIGITALs it has been all
+            Ever since I started business with Ipro Solutions it has been all
             smiles...they have the best customer service team ever...prompt and
-            fast response to issues. teetop digital thanks for always being
+            fast response to issues. Ipro Solutions thanks for always being
             true.
           </p>
         </div>

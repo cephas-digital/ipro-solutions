@@ -1,5 +1,5 @@
 import React from "react";
-import logoLight from "../Assets/teetop1.png";
+// import logoLight from "../Assets/Ipro1.png";
 import { Link } from "react-router-dom";
 import {
   FaPhone,
@@ -31,15 +31,15 @@ export let socials = [
 ];
 
 export let details = [
-  { icon: <FaPhone />, text: "+2349020304941", type: "tel" },
+  { icon: <FaPhone />, text: "+2347069465474", type: "tel" },
   {
     icon: <FaEnvelopeSquare />,
-    text: "elusakinyomi@gmail.com",
+    text: "vreshyusuf@gmail.com",
     type: "mail",
   },
   {
     icon: <FaMapMarker />,
-    text: "teetop Entrprrises",
+    text: "Ipro Entrprrises",
     type: "address",
   },
 ];
@@ -68,13 +68,11 @@ const Footer = () => {
               to="/"
               className="text-decoration-none text-white d-flex align-items-center mb-5"
             >
-              <img src={logoLight} alt="Honourworld" className="logo me-1 logo-img-size" />
-              {/* <div className="">
-                <p className="text-capitalize m-0 text-light">teetop</p>
-                <p className="text-capitalize m-0 site-secondary-color">
-                  digital
-                </p>
-              </div> */}
+              {/* <img src={logoLight} alt="Honourworld" className="logo me-1 logo-img-size" /> */}
+              <div className="d-none d-md-block">
+							<p className="text-capitalize text-white m-0">Ipro</p>
+							<p className="text-capitalize site-secondary-color m-0">Solutions</p>
+						</div>
             </Link>
             {/* <div className="d-none d-md-block fontReduce">
 							We are the #MOVEMENT People Your Trusted Logistics Aggregator
@@ -190,7 +188,7 @@ const Footer = () => {
               &copy; {`${new Date().getFullYear() !== 2022 ? "2022 - " : ""}`}
               {new Date().getFullYear()}
             </span>
-            &nbsp; <span className="d-block d-lg-inline">TEETOP DIGITAL</span>
+            &nbsp; <span className="d-block d-lg-inline">Ipro Solutions</span>
           </p>
         </div>
       </div>
